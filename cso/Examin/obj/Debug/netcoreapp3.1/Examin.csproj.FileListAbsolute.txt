@@ -1,0 +1,11 @@
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\bin\Debug\netcoreapp3.1\Examin.exe
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\bin\Debug\netcoreapp3.1\Examin.deps.json
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\bin\Debug\netcoreapp3.1\Examin.runtimeconfig.json
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\bin\Debug\netcoreapp3.1\Examin.runtimeconfig.dev.json
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\bin\Debug\netcoreapp3.1\Examin.dll
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\bin\Debug\netcoreapp3.1\Examin.pdb
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\obj\Debug\netcoreapp3.1\Examin.csprojAssemblyReference.cache
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\obj\Debug\netcoreapp3.1\Examin.AssemblyInfoInputs.cache
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\obj\Debug\netcoreapp3.1\Examin.AssemblyInfo.cs
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\obj\Debug\netcoreapp3.1\Examin.dll
+C:\Users\poval\Documents\GitHub\Praktika\cso\Examin\obj\Debug\netcoreapp3.1\Examin.pdb
